@@ -44,7 +44,7 @@
 Estoy abierto a oportunidades como desarrollador remoto en proyectos que usen tecnologías modernas y tengan impacto real. Si te interesa colaborar o simplemente charlar sobre tech o tacos 🌮, ¡contáctame!
 
 📬 **Contacto**:
-- ✉️ leonardo.ledesma.dev@gmail.com
+- ✉️ ing.leonardo.alonso@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/leonardodanielalonso/)
 - 📱 [Twitter/X](https://twitter.com/leoalonso_dev)
 
